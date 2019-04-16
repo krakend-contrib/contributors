@@ -1,13 +1,12 @@
-# KrakenD Contributors
+# To KrakenD contributors:
 
-Thank you for giving us your time to contribute to open source KrakenD projects. We want to show our appreciation and humbly make you a member of this organization for recognition.
+:thumbsup: A big **thank you** for giving us your time to contribute to any of our open source KrakenD related projects. We want to show our appreciation and humbly make you a member of this organization for recognition.
 
-When accepting the membership to the KrakenD-contributors you can decide to
-publicly show or not your membership under your profile.
+By accepting the membership to the KrakenD-contributors you can publicly show your membership in your profile by [making public your membership](https://github.com/orgs/krakend-contrib/people)
 
-## Get some Swag
+## Get some swag!
 No matter the size of your contribution, if you helped improve KrakenD and your
-contribution was merged in any of our repositories [tell us](hello AT krakend
+contribution was merged in any of our repositories, [tell us!](hello AT krakend
 DOT io) and we will send you some swag.
 
 Thanks!
