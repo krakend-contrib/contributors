@@ -5,8 +5,7 @@
 By accepting the membership to the KrakenD-contributors organization you can enable **showing the badge in your profile** by [making it public](https://github.com/orgs/krakend-contrib/people) (if you just accept or deny the invitation nothing will be shown in your profile)
 
 ## Get some swag!
-No matter the size of your contribution, or if you accepted or not the membership of krakend-contrib, if you helped improve KrakenD and your contribution was merged in any of our repositories, [tell us!](hello AT krakend
-DOT io) and we will send you some swag.
+No matter the size of your contribution, or if you accepted or not the membership of krakend-contrib, if you helped improve KrakenD and your contribution was merged in any of our repositories, [tell us](mailto:hello@krakend.io)! and we will send you some swag.
 
 Thanks!
 
